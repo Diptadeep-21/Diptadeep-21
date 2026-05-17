@@ -12,6 +12,12 @@ Hey, I am Diptadeep Sinha, a Computer Science undergraduate at Kalinga Institute
 ![](https://streak-stats.demolab.com/?user=Diptadeep-21&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Diptadeep-21&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🧠 LeetCode Journey
+![LeetCode Stats](https://leetcard.jacoblin.cool/Diptadeep_Sinha?theme=dark&font=Karma&ext=contest)
+
+> Consistently solving DSA problems to strengthen problem-solving and interview readiness.
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Diptadeep-21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
