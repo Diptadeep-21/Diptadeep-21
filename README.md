@@ -47,7 +47,7 @@
 ```typescript
 const diptadeep = {
   role     : "Full-Stack Engineer & AI Systems Builder",
-  university: "KIIT, Bhubaneswar — B.Tech CSE (CGPA: 9.51)",
+  university: "KIIT, Bhubaneswar — B.Tech CSE (CGPA: 9.52)",
   passions : ["Scalable Systems", "AI/LLM Applications", "Product Engineering"],
   principle: "Learn by building. Ship fast. Iterate hard.",
   currentlyBuilding: "AI-powered tools that solve real problems",
