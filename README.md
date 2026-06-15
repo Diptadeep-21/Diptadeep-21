@@ -9,7 +9,7 @@
 <!-- ─── Typing animation ─── -->
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4D7AFF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications;Exploring+AI+%2F+LLM-powered+systems;CGPA+9.51+%40+KIIT+%E2%80%94+AIR+10+in+ISC+Class+XII;Shipping+fast+%2C+iterating+faster)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4D7AFF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications;Exploring+AI+%2F+LLM-powered+systems;CGPA+9.52+%40+KIIT+%E2%80%94+AIR+10+in+ISC+Class+XII;Shipping+fast+%2C+iterating+faster)](https://git.io/typing-svg)
 
 <br/>
 
